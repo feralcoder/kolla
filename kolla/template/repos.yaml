@@ -1,7 +1,7 @@
 ---
 # TODO(mnasiadka): Rework the repo list once Ceph Octopus is released
 centos:
-  ceph: "centos-ceph-nautilus"
+  ceph: "centos-ceph-octopus"
   elasticsearch: "elasticsearch-kibana-logstash-7.x"
   epel: "epel"
   epel-modular: "epel-modular"
@@ -20,7 +20,7 @@ centos:
   td-agent: "treasuredata"
 
 centos-aarch64:
-  ceph: "centos-ceph-nautilus"
+  ceph: "centos-ceph-octopus"
   elasticsearch: "elasticsearch-kibana-logstash-7.x"
   epel: "epel"
   epel-modular: "epel-modular"
@@ -38,7 +38,7 @@ centos-aarch64:
   td-agent: "treasuredata"
 
 centos-ppc64le:
-  ceph: "centos-ceph-nautilus"
+  ceph: "centos-ceph-octopus"
   elasticsearch: "elasticsearch-kibana-logstash-7.x"
   epel: "epel"
   epel-modular: "epel-modular"
